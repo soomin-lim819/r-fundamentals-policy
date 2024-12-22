@@ -1,4 +1,4 @@
-This is the final coursework for one of my master's study at KDIS (R Fundamentals for Public Policy). The coursework is about the concpetions about marriage of young generation in South Korea. <br>
+This is the final coursework for one of my master's study at KDIS (R Fundamentals for Public Policy). The coursework is about perceptions of Korean individuals regarding marital life and partner selection. I have investigated the diverse responses that different socioeconomic backgrounds may have in response to these shifts in values. I've analyzed cross-sectional data for 6-year datasets (2006, 2008, 2013, 2016, 2019, and 2022) with 22,887 observations.<br>
 The subject was chosen considering serious aging population crisis in South Korea ('demographic cliff'), which has been one of the most important issues to be addressed in public policy in Korea <br>
 The file contains R shiny dashboard code. <br>
 The result has been published at R shiny dashboard. Various interactive visualization tools were deployed. https://soominlim.shinyapps.io/Perception/ <br>
